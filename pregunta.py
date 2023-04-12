@@ -50,6 +50,5 @@ def clean_data():
     #
     # Inserte su código aquí
     #
-
     return df
 
